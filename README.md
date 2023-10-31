@@ -11,4 +11,4 @@ HTML-CSS
 
 <h2>Screenshot<h2>
 
-![](/tour.gif)
+![](tour.gif)
